@@ -2,3 +2,5 @@
 Class project for Stat 613
 
 The project analyzes the happiness index across countries overtime. 
+
+Here is our new_branch!
